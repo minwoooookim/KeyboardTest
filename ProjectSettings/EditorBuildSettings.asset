@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Scene.unity
+    guid: e30e0d1996840c745a913d09a282b7f5
+  - enabled: 1
+    path: Assets/Scenes/Result Scene.unity
+    guid: edc5093aa6991d245948f585d7f6558e
+  - enabled: 1
+    path: Assets/Scenes/Practice Result Scene.unity
+    guid: 7319419066db81541b22833bb125755c
+  - enabled: 1
+    path: Assets/Scenes/Before 1.unity
+    guid: e55237034abe5ad4b9058a22ebbd52f4
+  - enabled: 1
+    path: Assets/Scenes/Before 2.unity
+    guid: af8c85093abb72a4faa9b48463d97027
+  - enabled: 1
+    path: Assets/Scenes/Test 2.unity
+    guid: 01d3df24802e3b84b8af092dc96d8bb4
+  - enabled: 1
+    path: Assets/Scenes/Test 2 Practice.unity
+    guid: 3755ef479bd21be4692a2167ede2db7c
+  - enabled: 1
+    path: Assets/Scenes/Test 1 Practice.unity
+    guid: 06fd303dc78d8004d9bc9691e2f6268f
+  - enabled: 1
+    path: Assets/Scenes/Test 1.unity
+    guid: a07af7fa9f1575a4e8f25950303eac79
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6a61a65ccf9d96e4cb37249f133baff9, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 44dc7b187e453ac4e866e2cb203ad210, type: 2}
